@@ -1,0 +1,23 @@
+  <section id="products">
+        <div class="product">
+            <img src="image.png" alt="blank">
+            <h2>blank<h2>
+            <p>$5.00</p>
+        </body><a href="any html page" class="buy-button">Buy Now</a>
+        </div>
+
+        <div class="product">
+            <img src="plant.jpeg" alt="plant">
+            <h2>Nuclear Power Plant</h2>
+            <p>$1000000000000.99</p>
+        </body><a href="newpage.html" class="buy-button">Buy Now</a>
+        </div>
+
+        <div class="product">
+            <img src="tiktok.png" alt="Product 3">
+            <h2>CEO of TikTok</h2>
+            <p>$3900000000000000000000000.99</p>
+           </body><a href="newpage.html" class="buy-button">Buy Now</a>
+            </html>
+        </div>
+    </section>
